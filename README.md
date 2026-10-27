@@ -3,7 +3,7 @@
 `mikvaos.json` is the women's mikvah directory used by the Mikvah app. It is built from the
 public directory at https://mikvah.org/directory and served from GitHub Pages at
 
-    https://tsuriele.github.io/mikvah-directory/mikvaos.json
+    https://www.tsurieldesign.com/mikvah-directory/mikvaos.json
 
 The app ships a bundled copy and refreshes from this URL, so updating the file here updates
 every installed app without a release.
